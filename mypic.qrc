@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>resources/timg.jpg</file>
+        <file>resources/monitor.png</file>
+        <file>monitor.ico</file>
+        <file>resources/start_logo.png</file>
+    </qresource>
+</RCC>
